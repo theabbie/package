@@ -1,0 +1,18 @@
+Metadata-Version: 2.1
+Name: package
+Version: 1.0.0
+Summary: Package Description
+Home-page: https://theabbie.github.io
+Author: TheAbbie
+Author-email: abhishek7gg7@gmail.com
+License: MIT
+Description: # package
+        
+        Package README
+        
+Platform: UNKNOWN
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 2
+Classifier: Programming Language :: Python :: 3
+Description-Content-Type: text/markdown
